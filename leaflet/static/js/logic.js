@@ -45,7 +45,7 @@ var baseMaps = {
 layers */
 var myMap = L.map("map", {
     center: [37.09, -95.71],
-    zoom: 2,
+    zoom: 3,
     layers: [darkMap, earthquake_layer]
 });
 
